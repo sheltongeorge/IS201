@@ -1,0 +1,63 @@
+body{
+    background-color: whitesmoke;
+    text-align: center;
+    padding: 20px;
+}
+
+
+
+nav{
+    background-color: gray;
+    padding: 20px;
+    text-align: left;
+}
+nav a{
+    color: black;
+    padding: 10px 13px;
+    text-decoration: none;
+    font-size: 20px;
+}
+nav a:hover{
+    background-color: #ccc;
+}
+
+
+
+
+.header{
+    background-color: black;
+    color: white;
+    height: 50px;
+    line-height: 50px;
+}
+
+
+
+
+.body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
+ol{
+    text-align: left;
+}
+ul{
+    text-align: left;
+}
+h2{
+    font-size: 18px;
+    text-align: left;
+}
+
+
+
+
+.bottom{
+    background-color: gray;
+    padding: 20px;
+    font-size: 20px;
+    text-align: left;
+}
+.bottom a{
+    color: black;
+}
